@@ -13,5 +13,5 @@ Welcome to the ESK Kernel Development Organization!
    > [ESK-Project/esk-releases](https://github.com/ESK-Project/esk-releases)
 
 3. **gki\_kernel\_builder** <br/>
-   Automated CI workflows for compiling GKI kernels. <br/>
+   An automated GKI Kernel Builder. <br/>
    > [ESK-Project/gki\_kernel\_builder](https://github.com/ESK-Project/gki_kernel_builder)
