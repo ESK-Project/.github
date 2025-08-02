@@ -5,7 +5,7 @@ Welcome to the ESK Kernel Development Organization!
 ## Repositories
 
 1. **android\_kernel\_xiaomi\_mt6895** <br/>
-   Source code for ESK’s Xiaomi MT6895 kernel. <br/>
+   Source code for ESK Kernel. <br/>
    > [ESK-Project/android\_kernel\_xiaomi\_mt6895](https://github.com/ESK-Project/android_kernel_xiaomi_mt6895)
 
 2. **esk-releases** <br/>
